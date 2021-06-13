@@ -1,0 +1,21 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: #0099ff;
+}
+p {
+  color: red;
+}
+
+a {
+  color: yellow;
+}
+
+#my_paragraph1 {
+   color: #ff00ff;
+   font-size: 25px;
+}
